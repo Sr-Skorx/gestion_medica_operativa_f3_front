@@ -12,7 +12,7 @@ export default function Home() {
           Una solución integral para la administración de su clínica.
         </p>
         <div className="mt-10 flex items-center justify-center gap-x-6">
-          <Link href="/dashboard">
+          <Link href="/login">
             <Button size="lg">
               Ingresar al Sistema
             </Button>
